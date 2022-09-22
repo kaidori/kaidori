@@ -1,6 +1,6 @@
 - # Sobre mim 
 - 
-- 👋olá, meu nome é @kaidori
+- 👋olá, meu nome é @Bruna
 - eu estou entereçado em programar novas linguagens.
 - 👍meu email de contato é schuenck.bruna@escola.pr.gov.br
 - 🌱 eu estou aprendendo a progamar novas linguagens de JavaScript e scrath
